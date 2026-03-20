@@ -7,9 +7,7 @@
 ![Scanner](https://img.shields.io/badge/Subdomain-Scanner-red?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-Amoon%20Bhatti-orange?style=for-the-badge)
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/subdomain-scanner?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/subdomain-scanner?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/subdomain-scanner?style=for-the-badge)
+
 # 🔥 Subdomain Scanner
 
 ![Banner](images/banner.png)
